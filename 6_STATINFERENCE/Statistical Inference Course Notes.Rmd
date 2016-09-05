@@ -61,7 +61,7 @@ grid.raster(readPNG("figures/2.png"))
 grid.raster(readPNG("figures/3.png"))
 ```
 
-* for independent events $A$ and $B$, $P(A \:\cup\: B) = P(A) \times P(B)$
+* for independent events $A$ and $B$, $P(A \:\cap\: B) = P(A) \times P(B)$
 * for outcomes that can occur with different combination of events and these combinations are mutually exclusive, the $P(E_{total}) =  \sum P(E_{part})$
 
 
